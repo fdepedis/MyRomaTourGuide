@@ -3,4 +3,7 @@
     <!-- Height of each list item -->
     <dimen name="list_item_height">88dp</dimen>
 
+    <!-- Size for splash logo -->
+    <dimen name="splash_size">250dp</dimen>
+
 </resources>
