@@ -2,7 +2,7 @@
     <string name="app_name">My Roma Tour Guide</string>
 
     <!-- Title for Eat string in the TabLayout. -->
-    <string name="category_restaurants">Restaurants</string>
+    <string name="category_restaurants">Eats</string>
 
     <!-- Title for Restaurant string in the TabLayout. -->
     <string name="category_hotels">Attractions</string>
@@ -14,6 +14,6 @@
     <string name="category_shop_centers">Shop Center</string>
 
     <!-- Text to display application name in splash screen -->
-    <string name="app_name_splash">Flax Guide Tour</string>
+    <string name="app_name_splash">Tour Guide</string>
 
 </resources>
