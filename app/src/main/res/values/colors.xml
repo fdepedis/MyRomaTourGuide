@@ -7,5 +7,7 @@
     <color name="colorPrimaryDark">#23303D</color>
 
     <!-- Accent color of the app -->
-    <color name="colorAccent">#10CAC9</color>
+    <color name="colorAccent">#104971</color>
+
+    <color name="colorBackgroundListItem">#c6cbd0</color>
 </resources>

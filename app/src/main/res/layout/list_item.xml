@@ -4,10 +4,10 @@
     android:id="@+id/list_item"
     android:layout_width="match_parent"
     android:layout_height="@dimen/list_item_height"
-    android:background="@color/tan_background">
+    android:background="@color/colorBackgroundListItem">
 
     <ImageView
-        android:id="@+id/list_item_icon"
+        android:id="@+id/place_item_icon"
         android:layout_width="@dimen/list_item_height"
         android:layout_height="@dimen/list_item_height" />
 
@@ -18,38 +18,28 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentTop="true"
-        android:layout_toRightOf="@id/list_item_icon"
-        android:background="@color/category_numbers"
+        android:layout_toRightOf="@id/place_item_icon"
         android:paddingLeft="16dp">
 
         <TextView
-            android:id="@+id/miwok_text_view"
+            android:id="@+id/place_text_view"
             android:layout_width="match_parent"
             android:layout_height="44dp"
             android:gravity="bottom"
-            android:text="list_miwok"
+            android:text="list_place"
             android:textAppearance="?android:textAppearanceMedium"
-            android:textColor="@android:color/white"
+            android:textColor="@android:color/black"
             android:textStyle="bold" />
 
         <TextView
-            android:id="@+id/default_text_view"
+            android:id="@+id/place_address_text_view"
             android:layout_width="match_parent"
             android:layout_height="44dp"
-            android:layout_below="@id/miwok_text_view"
+            android:layout_below="@id/place_text_view"
             android:gravity="top"
-            android:text="list_default"
-            android:textAppearance="?android:textAppearanceMedium"
-            android:textColor="@android:color/white" />
-
-        <ImageView
-            android:id="@+id/play"
-            android:layout_width="@dimen/play_music"
-            android:layout_height="@dimen/play_music"
-            android:layout_alignParentRight="true"
-            android:layout_centerVertical="true"
-            android:layout_marginRight="16dp"
-            android:src="@drawable/ic_play_arrow_white_24dp" />
+            android:text="list_place_address"
+            android:textAppearance="?android:textAppearanceSmall"
+            android:textColor="@android:color/black" />
 
     </RelativeLayout>
 

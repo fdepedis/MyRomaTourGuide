@@ -15,6 +15,9 @@ public class Place {
     //The description of the place
     private String mPlaceDescription;
 
+    //The short description of the place
+    private String mPlaceShortDescription;
+
     //The ID of the image resource of the place
     private int mPlaceImageResourceID;
 
@@ -33,18 +36,21 @@ public class Place {
      * @param mPlaceName is the name of the place
      * @param mPlaceAddress is the address of the place
      * @param mPlaceImageResourceID is the resource ID for the image file associated to this place
-     * @param mPlaceDescription is teh description of the place
+     * @param mPlaceDescription is the description of the place
+     * @param mPlaceShortDescription is the short description of the place
      * @param mPlaceUrl is the URL of the place
      * @param mPlaceLocation is the location of the place
      */
     /**
      * Constructor of the Place object without audio resource
      */
-    public Place(String placeName, String placeAddress, String placeDescription, int placeImage, String placeUrl, String placeLocation) {
+    public Place(String placeName, String placeAddress, String placeDescription,
+                 String shortDescription, int placeImage, String placeUrl, String placeLocation) {
         mPlaceName = placeName;
         mPlaceAddress = placeAddress;
         mPlaceImageResourceID = placeImage;
         mPlaceDescription = placeDescription;
+        mPlaceShortDescription = shortDescription;
         mPlaceUrl = placeUrl;
         mPlaceLocation = placeLocation;
     }
@@ -56,6 +62,7 @@ public class Place {
      * @param mPlaceAddress is the address of the place
      * @param mPlaceImageResourceID is the resource ID for the image file associated to this place
      * @param mPlaceDescription is teh description of the place
+     * @param mPlaceShortDescription is the short description of the place
      * @param mPlaceUrl is the URL of the place
      * @param mPlaceLocation is the location of the place
      * @param mPlaceAudioResourceID is the audio of the place
@@ -63,11 +70,13 @@ public class Place {
     /**
      * Constructor of the Place object with audio resource
      */
-    public Place(String placeName, String placeAddress, String placeDescription, int placeImage, String placeUrl, String placeLocation, int placeAudio) {
+    public Place(String placeName, String placeAddress, String placeDescription,
+                 String shortDescription, int placeImage, String placeUrl, String placeLocation, int placeAudio) {
         mPlaceName = placeName;
         mPlaceAddress = placeAddress;
         mPlaceImageResourceID = placeImage;
         mPlaceDescription = placeDescription;
+        mPlaceShortDescription = shortDescription;
         mPlaceUrl = placeUrl;
         mPlaceLocation = placeLocation;
         mPlaceAudioResourceID = placeAudio;
@@ -86,6 +95,11 @@ public class Place {
     //Get the description of the place
     public String getPlaceDescription() {
         return mPlaceDescription;
+    }
+
+    //Get the short description of the place
+    public String getPlaceShortDescription() {
+        return mPlaceShortDescription;
     }
 
     //Get the image resource ID of the place
