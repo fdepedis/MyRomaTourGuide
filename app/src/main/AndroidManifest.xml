@@ -20,7 +20,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".MainActivity"></activity>
-        <activity android:name=".CategoryAdapter" />
+        <activity android:name=".CategoryFragmentAdapter" />
     </application>
 
 </manifest>

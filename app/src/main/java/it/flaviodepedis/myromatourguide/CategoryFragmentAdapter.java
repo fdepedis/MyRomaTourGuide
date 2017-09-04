@@ -10,18 +10,18 @@ import android.support.v4.app.FragmentPagerAdapter;
  * Created by flavio.depedis on 04/09/2017.
  */
 
-public class CategoryAdapter extends FragmentPagerAdapter {
+public class CategoryFragmentAdapter extends FragmentPagerAdapter {
 
     /** Context of the app */
     private Context mContext;
 
     /**
-     * Create a new {@link CategoryAdapter} object.
+     * Create a new {@link CategoryFragmentAdapter} object.
      *
      * @param fm is the fragment manager that will keep each fragment's state in the adapter
      *           across swipes.
      */
-    public CategoryAdapter (Context context, FragmentManager fm) {
+    public CategoryFragmentAdapter(Context context, FragmentManager fm) {
         super(fm);
         mContext = context;
     }

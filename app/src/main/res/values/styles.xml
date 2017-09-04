@@ -33,7 +33,7 @@
         <item name="android:textAppearance">?android:textAppearanceMedium</item>
     </style>
 
-    <!-- Splash Screen -->
+    <!-- Touch Splash Screen -->
     <style name="TouchSplashTheme" parent="Theme.AppCompat.NoActionBar">
         <item name="colorPrimaryDark">@color/colorPrimary</item>
     </style>
