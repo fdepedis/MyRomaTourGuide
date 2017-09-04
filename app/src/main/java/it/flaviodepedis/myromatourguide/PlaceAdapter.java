@@ -28,7 +28,7 @@ public class PlaceAdapter extends ArrayAdapter<Place> {
         View listItemView = convertView;
         if (listItemView == null) {
             listItemView = LayoutInflater.from(getContext()).inflate(
-                    R.layout.list, parent, false);
+                    R.layout.list_item, parent, false);
         }
 
         // Get the {@link Place} object located at this position in the list
