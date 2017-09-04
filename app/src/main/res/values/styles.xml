@@ -13,6 +13,8 @@
         <item name="tabIndicatorColor">@android:color/white</item>
         <item name="tabSelectedTextColor">@android:color/white</item>
         <item name="tabTextAppearance">@style/CategoryTabTextAppearance</item>
+        <item name="tabGravity">fill</item>
+        <item name="tabMode">scrollable</item>
     </style>
 
     <!-- Text appearance style for a category tab -->
@@ -32,7 +34,7 @@
     </style>
 
     <!-- Splash Screen -->
-    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+    <style name="TouchSplashTheme" parent="Theme.AppCompat.NoActionBar">
         <item name="colorPrimaryDark">@color/colorPrimary</item>
     </style>
 
