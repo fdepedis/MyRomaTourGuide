@@ -28,32 +28,20 @@ public class CategoryAdapter extends FragmentPagerAdapter {
 
     @Override
     public Fragment getItem(int position) {
-        /*
-        if (position == 0) {
-            return new NumbersFragment();
-        } else if (position == 1) {
-            return new FamilyFragment();
-        } else if (position == 2) {
-            return new ColorsFragment();
-        } else {
-            return new PhrasesFragment();
-        }
-        */
         Fragment fragment;
         switch(position) {
             case 0:
                 fragment = new EatFragment();
                 break;
             case 1:
-                fragment =  new SightsFragment();
+                fragment =  new AttractionFragment();
                 break;
             case 2:
-                fragment =  new ToursFragment();
+                fragment =  new HotelFragment();
                 break;
             default:
-                fragment = new CityFragment();
+                fragment = new ShopFragment();
                 break;
-
         }
         return fragment;
     }
@@ -65,17 +53,16 @@ public class CategoryAdapter extends FragmentPagerAdapter {
 
     @Override
     public CharSequence getPageTitle(int position) {
-        /*
+
         if (position == 0) {
             return mContext.getString(R.string.category_restaurants);
         } else if (position == 1) {
-            return mContext.getString(R.string.category_hotels);
-        } else if (position == 2) {
             return mContext.getString(R.string.category_attractions);
+        } else if (position == 2) {
+            return mContext.getString(R.string.category_hotels);
         } else {
             return mContext.getString(R.string.category_shop_centers);
         }
-        */
     }
 
 }

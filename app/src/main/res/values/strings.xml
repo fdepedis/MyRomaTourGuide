@@ -1,6 +1,16 @@
 <resources>
     <string name="app_name">MyRomaTourGuide</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Title for Eat string in the TabLayout. -->
+    <string name="category_restaurants">Restaurants</string>
+    
+    <!-- Title for Restaurant string in the TabLayout. -->
+    <string name="category_hotels">Attractions</string>
+
+    <!-- Title for Hotel string in the TabLayout. -->
+    <string name="category_attractions">Hotel</string>
+
+    <!-- Title for Shop Center string in the TabLayout. -->
+    <string name="category_shop_centers">Shop Center</string>
+
 </resources>
