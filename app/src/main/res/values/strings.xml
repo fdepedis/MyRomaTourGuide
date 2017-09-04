@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Roma Tour Guide</string>
+    <string name="app_name">My Tour Guide</string>
 
     <!-- Title for Eat string in the TabLayout. -->
     <string name="category_restaurants">Eats</string>
