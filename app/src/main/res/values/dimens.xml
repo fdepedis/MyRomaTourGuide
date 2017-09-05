@@ -3,7 +3,13 @@
     <!-- Height of each list item -->
     <dimen name="list_item_height">88dp</dimen>
 
+    <!-- Height of each TextView in the list item -->
+    <dimen name="text_view_list_item_height">44dp</dimen>
+
     <!-- Size for splash logo -->
     <dimen name="splash_size">250dp</dimen>
+
+    <!-- Start padding in list item -->
+    <dimen name="start_padding">16dp</dimen>
 
 </resources>

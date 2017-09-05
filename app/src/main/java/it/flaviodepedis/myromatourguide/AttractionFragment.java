@@ -30,6 +30,8 @@ public class AttractionFragment extends Fragment {
         //placeName, placeAddress, placeDescription, placeShortDesc, placeImage, placeUrl, placeLocation
         places.add(new Place("Colosseo", "Via dei Fori Imperiali", "Descrizione Monumneto",
                 "Monumento Storico", R.mipmap.ic_launcher, "www.colosseo.it", "Roma"));
+        places.add(new Place("Colosseo", "Via dei Fori Imperiali", "Descrizione Monumneto",
+                "Monumento Storico", R.mipmap.ic_launcher, "www.colosseo.it", "Roma"));
 
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Word}s. The

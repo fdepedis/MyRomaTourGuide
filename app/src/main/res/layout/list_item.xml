@@ -1,46 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/list_item"
     android:layout_width="match_parent"
     android:layout_height="@dimen/list_item_height"
-    android:background="@color/colorBackgroundListItem">
+    android:orientation="vertical">
 
-    <ImageView
-        android:id="@+id/place_item_icon"
-        android:layout_width="@dimen/list_item_height"
-        android:layout_height="@dimen/list_item_height" />
-
-    <RelativeLayout
-        android:id="@+id/text_container"
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="@dimen/list_item_height"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentTop="true"
-        android:layout_toRightOf="@id/place_item_icon"
-        android:paddingLeft="16dp">
+        android:background="@color/colorBackgroundListItem"
+        android:orientation="horizontal">
 
-        <TextView
-            android:id="@+id/place_text_view"
+        <ImageView
+            android:id="@+id/place_item_icon"
+            android:layout_width="@dimen/list_item_height"
+            android:layout_height="@dimen/list_item_height" />
+
+        <RelativeLayout
+            android:id="@+id/text_container"
             android:layout_width="match_parent"
-            android:layout_height="44dp"
-            android:gravity="bottom"
-            android:text="list_place"
-            android:textAppearance="?android:textAppearanceMedium"
-            android:textColor="@android:color/black"
-            android:textStyle="bold" />
+            android:layout_height="@dimen/list_item_height"
+            android:paddingLeft="@dimen/start_padding">
 
-        <TextView
-            android:id="@+id/place_address_text_view"
-            android:layout_width="match_parent"
-            android:layout_height="44dp"
-            android:layout_below="@id/place_text_view"
-            android:gravity="top"
-            android:text="list_place_address"
-            android:textAppearance="?android:textAppearanceSmall"
-            android:textColor="@android:color/black" />
+            <TextView
+                android:id="@+id/place_text_view"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/text_view_list_item_height"
+                android:gravity="bottom"
+                android:text="xxx"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textColor="@color/primary_text"
+                android:textStyle="bold" />
 
-    </RelativeLayout>
+            <TextView
+                android:id="@+id/place_address_text_view"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/text_view_list_item_height"
+                android:layout_below="@id/place_text_view"
+                android:gravity="top"
+                android:text="xxx"
+                android:textAppearance="?android:textAppearanceSmall"
+                android:textColor="@color/secondary_text" />
 
-</RelativeLayout>
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/divider" />
+
+</LinearLayout>

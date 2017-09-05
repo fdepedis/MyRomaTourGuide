@@ -1,7 +1,6 @@
 package it.flaviodepedis.myromatourguide;
 
 import android.app.Activity;
-import android.content.Context;
 import android.support.annotation.NonNull;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -58,17 +57,7 @@ public class PlaceAdapter extends ArrayAdapter<Place> {
         // Find the ImageView in the list_item.xml layout with the ID place_item_icon
         // Get the image resource ID from the current Place object and set the image to ImageView
         ImageView imgPlace = (ImageView) listItemView.findViewById(R.id.place_item_icon);
-        // Check if an image is provided for this word or not
-        //if (currentPlace.hasImage()) {
-            // If an image is available, display the provided image based on the resource ID
         imgPlace.setImageResource(currentPlace.getPlaceImageResourceID());
-            // Make sure the view is visible
-        //    imageView.setVisibility(View.VISIBLE);
-        //} else {
-            // Otherwise hide the ImageView (set visibility to GONE)
-        //    imageView.setVisibility(View.GONE);
-        //}
-
 
         // Return the whole list item layout (containing 2 TextViews and an ImageView)
         // so that it can be shown in the ListView
