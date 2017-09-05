@@ -83,7 +83,7 @@ public class AttractionFragment extends Fragment {
                 // Find the current place that was clicked on
                 Place currentPlace = placeAdapter.getItem(i);
 
-                // Create a new intent to view the palce detail activity
+                // Create a new intent to view the place detail activity
                 Intent intent = new Intent(getActivity(), PlaceDetailActivity.class);
                 intent.putExtra("placeName", currentPlace.getPlaceName());
                 intent.putExtra("placeAddress", currentPlace.getPlaceAddress());
@@ -95,10 +95,8 @@ public class AttractionFragment extends Fragment {
 
                 // Send the intent to launch a new activity
                 startActivity(intent);
-
             }
         });
-
 
         return rootView;
     }

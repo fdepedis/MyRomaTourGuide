@@ -302,4 +302,329 @@
 	who radically transformed the hill, by building atop the previous dwellings the majestic Flavian Palace, designed by the architect Rabirius. Currently situated
 	within the Palace of the Caesars is the Palatine Museum, where the most important finds of the excavations are on display.</string>
 
+
+    <!-- Restaurants -->
+    <!-- Name of restaurant -->
+    <string name="eat_name_1">Momò Republic</string>
+
+    <!-- Address of restaurant -->
+    <string name="eat_addres_1">Piazza Carlo Forlanini, 10</string>
+
+    <!-- Short description restaurant -->
+    <string name="eat_short_desc_1">Good Restaurant</string>
+
+    <!-- Location restaurant -->
+    <string name="eat_location_1">Piazza Carlo Forlanini, 10 - 00100 Roma - Italy</string>
+
+    <!-- URL restaurant  -->
+    <string name="eat_url_1">http://www.momorepublic.it</string>
+
+    <!-- Description restaurant -->
+    <string name="eat_desc_1">Il nuovo modo di assaporare la vita !
+	Un luogo in cui puoi essere felice, dove tranquillità e ambiente creativo sono gli ingredienti per i tuoi migliori momenti.
+	Dove puoi condividere relax, divertimento e gusto con gli amici migliori. In un’ atmosfera rilassante e familiare, un servizio vivace e fresco,
+	offrendo piatti che spaziano tra specialità di carne e pesce, tipici della cucina tradizionale mediterranea reinterpretata in chiave moderna.
+	Una delle particolarità di questo ristorante sono i secondi piatti, preparati e cotti su griglia "a vista".</string>
+
+
+    <!-- Name of restaurant -->
+    <string name="eat_name_2">La Querida</string>
+
+    <!-- Address of restaurant -->
+    <string name="eat_addres_2">Viale del Circuito, 68</string>
+
+    <!-- Short description restaurant -->
+    <string name="eat_short_desc_2">Good Restaurant</string>
+
+    <!-- Location restaurant -->
+    <string name="eat_location_2">Viale del Circuito, 68, 00124 Roma RM</string>
+
+    <!-- URL restaurant  -->
+    <string name="eat_url_2">https://www.tripadvisor.it/Restaurant_Review-g187791-d2431475-Reviews-La_Querida-Rome_Lazio.html</string>
+
+    <!-- Description restaurant -->
+    <string name="eat_desc_2">Anche conosciuto come "Centro Equestre Castel Fusano" è, infatti, un ristorante rustico ma di buon gusto,
+	con tavoli ben apparecchiati ed un servizio veloce e cordiale inserito in un maneggio. La cucina pur avendo una connotazione rustica risulta molto ricercata.
+	Il locale è pulito e ben curato. Il personale è molto professionale e veloce. La carne è ottima, i dolci fatti in casa sono di buonissimo livello.
+	La lista dei vini è sicuramente superiore alla media. I prezzi sono medi.</string>
+
+
+
+    <!-- Name of restaurant -->
+    <string name="eat_name_3">La Maisonnette</string>
+
+    <!-- Address of restaurant -->
+    <string name="eat_addres_3">Via Giacinto Pullino, 103</string>
+
+    <!-- Short description restaurant -->
+    <string name="eat_short_desc_3">Good Restaurant</string>
+
+    <!-- Location restaurant -->
+    <string name="eat_location_3">Via Giacinto Pullino, 103 - Roma Garbatella</string>
+
+    <!-- URL restaurant  -->
+    <string name="eat_url_3">http://lamaisonnetteristrot.it/</string>
+
+    <!-- Description restaurant -->
+    <string name="eat_desc_3">Nasce nel 2014 nel quartiere romano della Garbatella e ha un\’anima tutta sua.
+	Forgiata a loro immagine e somiglianza dai giovani fratelli Alessandro e Susanna Sipione, proprietari e lei anche chef del ristorante.
+	É una casa di campagna in centro città, aperta, con il suo accogliente giardino, dalle 11.00 alle due di notte.</string>
+
+
+    <!-- Name of restaurant -->
+    <string name="eat_name_4">La Tana della Volpe</string>
+
+    <!-- Address of restaurant -->
+    <string name="eat_addres_4">Via Adeodato Ressi, 82</string>
+
+    <!-- Short description restaurant -->
+    <string name="eat_short_desc_4">Good Restaurant</string>
+
+    <!-- Location restaurant -->
+    <string name="eat_location_4">Via Adeodato Ressi, 82, 00148 Roma RM</string>
+
+    <!-- URL restaurant  -->
+    <string name="eat_url_4">https://www.ristorantetanadellavolpe.com/</string>
+
+    <!-- Description restaurant -->
+    <string name="eat_desc_4">Troverete ad attendervi un ambiente familiare e confortevole, dove potrete dedicarvi qualche attimo di tranquillità.
+	Il nostro personale saprà soddisfare ogni vostra esigenza, e vi consiglierà il vino migliore per accompagnare i vostri piatti preferiti. Se lo desiderate, potremo
+	condividere insieme la passione per lo sport approfittando del nostro servizio di Pay per View. Cercheremo di creare l\'atmosfera migliore in modo
+	che possiate sentirvi come a casa vostra.</string>
+
+
+    <!-- Name of restaurant -->
+    <string name="eat_name_5">Dar Moschino</string>
+
+    <!-- Address of restaurant -->
+    <string name="eat_addres_5">Piazza Benedetto Brin, 5</string>
+
+    <!-- Short description restaurant -->
+    <string name="eat_short_desc_5">Good Restaurant</string>
+
+    <!-- Location restaurant -->
+    <string name="eat_location_5">Piazza Benedetto Brin, 5, 00154 Roma RM</string>
+
+    <!-- URL restaurant  -->
+    <string name="eat_url_5">http://www.lucianopignataro.it/a/dar-moschino-alla-garbatella/87164/</string>
+
+    <!-- Description restaurant -->
+    <string name="eat_desc_5">Ristorante nato negli anni \'70, deve il suo nome al proprietario, il Signor Franco, famoso fin da piccolo
+	per il suo carattere peperino e pertanto detto "er moschino". L\'ambiente è quello dell\'antica osteria di quartiere ed il personale è molto
+	simpatico e disponibile. Situato nel pittoresco e storico quartiere romano della Garbatella offre una prelibata cucina tutta romanesca.
+	Da non perdere: pasta e fagioli, gnocchi e trippa. Ottimo rapporto qualità prezzo.</string>
+
+
+    <!-- Name of restaurant -->
+    <string name="eat_name_6">La Locanda del Prosciutto</string>
+
+    <!-- Address of restaurant -->
+    <string name="eat_addres_6">Via del Gesù, 81</string>
+
+    <!-- Short description restaurant -->
+    <string name="eat_short_desc_6">Good Restaurant</string>
+
+    <!-- Location restaurant -->
+    <string name="eat_location_6">Via del Gesù, 81 "-" 00186 Roma</string>
+
+    <!-- URL restaurant  -->
+    <string name="eat_url_6">http://www.lalocandadelprosciutto.it</string>
+
+    <!-- Description restaurant -->
+    <string name="eat_desc_6">La Locanda del Prosciutto è un laboratorio enogastronomico dove gustare i migliori prodotti italiani.
+	Qui la ristorazione è intesa come ricerca dell’eccellenza, un viaggio sensoriale alla scoperta dei migliori profumi e sapori della penisola.
+	Dai taglieri gourmet con prosciutti stagionati, mortadella di Chianina e porchetta IGP del Lazio, passando per i formaggi, le bruschette,
+	le zuppe, la pizza ripiena e la schiacciata toscana, ogni singola portata è una delizia per il palato. Tutti i prodotti sono biologici e senza aggiunta
+	di conservanti. Le etichette di vini bianchi e rossi provengono dalle migliori cantine d’Italia e si possono gustare anche vini francesi con bollicine
+	e champagne. Ricca varietà di birre artigianali e dolci fatti in casa, con selezione di piatti vegetariani e per celiaci. La Locanda del Prosciutto
+	è aperta tutti i giorni per un pranzo di lavoro o uno spuntino veloce, per un aperitivo diverso dal solito, una cena gourmet in compagnia
+	di amici o per un dopocena con il proprio partner. Ad accogliervi un salotto dedicato alla cucina made in Italy, arredato in stile rustico e allo
+	stesso tempo vintage, in completa armonia con il centro di Roma.</string>
+
+
+    <!-- Name of restaurant -->
+    <string name="eat_name_7">Pane e Salame</string>
+
+    <!-- Address of restaurant -->
+    <string name="eat_addres_7">Via di Santa Maria in Via 19</string>
+
+    <!-- Short description restaurant -->
+    <string name="eat_short_desc_7">Good Restaurant</string>
+
+    <!-- Location restaurant -->
+    <string name="eat_location_7">Via di Santa Maria in Via 19, 00187 Roma, Italia</string>
+
+    <!-- URL restaurant  -->
+    <string name="eat_url_7">https://www.facebook.com/panesalameroma/</string>
+
+    <!-- Description restaurant -->
+    <string name="eat_desc_7">Nel cuore di Roma, a pochi passi da Fontana di Trevi! Salumi e formaggi di qualità, tutti rigorosamente italiani!
+	E da non perdere il fagotto ripieno!</string>
+
+
+    <!-- Name of restaurant -->
+    <string name="eat_name_8">Birra e Sale</string>
+
+    <!-- Address of restaurant -->
+    <string name="eat_addres_8">Via del Governo Vecchio 90</string>
+
+    <!-- Short description restaurant -->
+    <string name="eat_short_desc_8">Good Restaurant</string>
+
+    <!-- Location restaurant -->
+    <string name="eat_location_8">Via del Governo Vecchio 90, Roma, Italia</string>
+
+    <!-- URL restaurant  -->
+    <string name="eat_url_8">http://www.birraesale.com/</string>
+
+    <!-- Description restaurant -->
+    <string name="eat_desc_8">Il segreto di Birra e Sale è la sua semplicità: pochi ingredienti selezionati con cura e passione.
+	Ci troviamo nel cuore di Roma, a pochi passi da Piazza Navona e Campo de\' Fiori, in una deliziosa boutique alimentare con sgabelli in
+	legno e ripiano in marmo fissato al bancone. Abbiamo una sola missione: deliziarti con i nostri prodotti gourmet e regalarti un\'esperienza
+	di gusto indimenticabile. Vieni a trovarci per un pranzo o per un apericena di qualità e veloce! Ti aspettiamo!</string>
+
+
+    <!-- Name of restaurant -->
+    <string name="eat_name_9">Two Sizes</string>
+
+    <!-- Address of restaurant -->
+    <string name="eat_addres_9">Via del Governo Vecchio, 88</string>
+
+    <!-- Short description restaurant -->
+    <string name="eat_short_desc_9">Good Restaurant - Bar</string>
+
+    <!-- Location restaurant -->
+    <string name="eat_location_9">Via del Governo Vecchio 88, 00186 Roma, Italia</string>
+
+    <!-- URL restaurant  -->
+    <string name="eat_url_9">https://www.facebook.com/pg/twosizes/about/</string>
+
+    <!-- Description restaurant -->
+    <string name="eat_desc_9">Due misure e due prezzi per i tiramisù più sfiziosi di sempre. Classic, caramel,
+        pistacchio, arachidi, fragola e nuovi gusti ogni mese. Small 2€ big 3.5€</string>
+
+
+    <!-- Name of restaurant -->
+    <string name="eat_name_10">My Ale</string>
+
+    <!-- Address of restaurant -->
+    <string name="eat_addres_10">Via dei Cappellari, 79</string>
+
+    <!-- Short description restaurant -->
+    <string name="eat_short_desc_10">Good Restaurant - Bar</string>
+
+    <!-- Location restaurant -->
+    <string name="eat_location_10">Via dei Cappellari, 79 - 00186 Roma(RM) - Italy</string>
+
+    <!-- URL restaurant  -->
+    <string name="eat_url_10">http://www.myale.net/#page-top</string>
+
+    <!-- Description restaurant -->
+    <string name="eat_desc_10">Il gusto per le cose buone, la ricerca della qualità e del unicità...è questo che ci ha portato a
+	selezionare le migliori Birre Artigianali, rigorosamente Italiane ed i migliori Formaggi e Salumi locali. Il tutto abbinato a focacce
+	e panini di farro biologico, condite con la fresca verdura di stagione. Estratti di frutta fresca e dolci fatti in casa...tutto rigorosamente
+	"BIO"!!! Per chi volesse, abbiamo Birra e Farine "senza glutine". Vi aspettiamo per offrirvi un mix di gustosi cibi "sani" e buona musica...
+	il tutto accompagnato da professionalità e cortesia.</string>
+
+
+    <!-- Shop Center -->
+    <!-- Name of Shop Center -->
+    <string name="shop_name_1">Euroma 2</string>
+
+    <!-- Address of restaurant -->
+    <string name="shop_addres_1">Viale dell\'Oceano Pacifico, 83</string>
+
+    <!-- Short description restaurant -->
+    <string name="shop_short_desc_1">Shopping Center</string>
+
+    <!-- Location restaurant -->
+    <string name="shop_location_1">Viale dell\'Oceano Pacifico, 83, 00144 Roma RM</string>
+
+    <!-- URL restaurant  -->
+    <string name="shop_url_1">http://www.euroma2.it/it/</string>
+
+    <!-- Description restaurant -->
+    <string name="shop_desc_1">Euroma 2 è un complesso architettonico ad uso commerciale situato
+        a Roma nella zona tra viale Oceano Pacifico, via Cristoforo Colombo e via di Decima, denominata Castellaccio</string>
+
+
+    <!-- Name of Shop Center -->
+    <string name="shop_name_2">Galleria Alberto Sordi</string>
+
+    <!-- Address of restaurant -->
+    <string name="shop_addres_2">Piazza Colonna</string>
+
+    <!-- Short description restaurant -->
+    <string name="shop_short_desc_2">Shopping Center</string>
+
+    <!-- Location restaurant -->
+    <string name="shop_location_2">Galleria di Piazza Colonna, Piazza Colonna, 00187 Roma RM</string>
+
+    <!-- URL restaurant  -->
+    <string name="shop_url_2">http://www.galleriaalbertosordi.it/</string>
+
+    <!-- Description restaurant -->
+    <string name="shop_desc_2">La galleria Alberto Sordi è un edificio di Roma, situato in piazza Colonna, inaugurato nel 1922.
+	È una delle sedi della Presidenza del Consiglio dei ministri. Ha al suo interno una galleria commerciale con oltre 20 negozi.</string>
+
+
+    <!-- Name of Shop Center -->
+    <string name="shop_name_3">Auchan Collatina</string>
+
+    <!-- Address of restaurant -->
+    <string name="shop_addres_3">Via G.B. Valente, 190</string>
+
+    <!-- Short description restaurant -->
+    <string name="shop_short_desc_3">Shopping Center</string>
+
+    <!-- Location restaurant -->
+    <string name="shop_location_3">Via G.B. Valente, 190 - Roma RM - Italy</string>
+
+    <!-- URL restaurant  -->
+    <string name="shop_url_3">http://www.collatina.gallerieauchan.it/</string>
+
+    <!-- Description restaurant -->
+    <string name="shop_desc_3">Ubicato nella periferia est di Roma e in prossimità di due assi viari di primaria importanza, l\'A24 e la Via Pranestina,
+	Il Centro Commerciale Auchan Collatina si compone di 1 ipermercato Auchan e di 8 negozi. Completa l’offerta un distributore di carburante discount Auchan, che contribuisce a fidelizzare la clientela.</string>
+
+
+    <!-- Name of Shop Center -->
+    <string name="shop_name_4">Parco Da Vinci</string>
+
+    <!-- Address of restaurant -->
+    <string name="shop_addres_4">Via Geminiano Montanari</string>
+
+    <!-- Short description restaurant -->
+    <string name="shop_short_desc_4">Shopping Center</string>
+
+    <!-- Location restaurant -->
+    <string name="shop_location_4">Via Geminiano Montanari, 00054 Piana del Sole, Roma RM</string>
+
+    <!-- URL restaurant  -->
+    <string name="shop_url_4">http://www.parcocommercialedavinci.com/it/</string>
+
+    <!-- Description restaurant -->
+    <string name="shop_desc_4">Market Central Da Vinci - Vivi L\'Evoluzione dello Shopping.</string>
+
+
+    <!-- Name of Shop Center -->
+    <string name="shop_name_5">Parco Leonardo</string>
+
+    <!-- Address of restaurant -->
+    <string name="shop_addres_5">Piazza ai Diciannove Caduti di Nassiriya</string>
+
+    <!-- Short description restaurant -->
+    <string name="shop_short_desc_5">Shopping Center</string>
+
+    <!-- Location restaurant -->
+    <string name="shop_location_5">Piazza ai Diciannove Caduti di Nassiriya - 00054 Fiumicino (ROMA)</string>
+
+    <!-- URL restaurant  -->
+    <string name="shop_url_5">http://parcoleonardo.it/</string>
+
+    <!-- Description restaurant -->
+    <string name="shop_desc_5">Parco Leonardo è un nuovo quartiere situato all\'interno del Comune di Fiumicino (provincia di Roma)
+	quindi all\'interno della conurbazione di Roma, che ospita il centro commerciale e il cinema multisala tra i più grandi d\'Italia.</string>
+
+
 </resources>
