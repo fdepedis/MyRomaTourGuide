@@ -44,8 +44,8 @@ public class Place {
     /**
      * Constructor of the Place object without audio resource
      */
-    public Place(String placeName, String placeAddress, String placeDescription,
-                 String shortDescription, int placeImage, String placeUrl, String placeLocation) {
+    public Place(String placeName, String placeAddress, String shortDescription,
+                 String placeDescription, int placeImage, String placeUrl, String placeLocation) {
         mPlaceName = placeName;
         mPlaceAddress = placeAddress;
         mPlaceImageResourceID = placeImage;
@@ -70,8 +70,8 @@ public class Place {
     /**
      * Constructor of the Place object with audio resource
      */
-    public Place(String placeName, String placeAddress, String placeDescription,
-                 String shortDescription, int placeImage, String placeUrl, String placeLocation, int placeAudio) {
+    public Place(String placeName, String placeAddress, String shortDescription,
+                 String placeDescription, int placeImage, String placeUrl, String placeLocation, int placeAudio) {
         mPlaceName = placeName;
         mPlaceAddress = placeAddress;
         mPlaceImageResourceID = placeImage;

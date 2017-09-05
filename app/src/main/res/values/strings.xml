@@ -16,6 +16,8 @@
     <!-- Text to display application name in splash screen -->
     <string name="app_name_splash">Tour Guide</string>
 
+    <!-- Label to display name of detail activity -->
+    <string name="place_detail_activity_label">Place Detail</string>
 
     <!-- The Colosseum -->
     <!-- Name of attraction - The Colosseum -->
