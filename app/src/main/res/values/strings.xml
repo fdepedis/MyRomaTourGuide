@@ -5,7 +5,7 @@
     <string name="category_restaurants">Restaurants</string>
 
     <!-- Title for Restaurant string in the TabLayout. -->
-    <string name="category_hotels">Hotel</string>
+    <string name="category_hotels">Hotels</string>
 
     <!-- Title for Hotel string in the TabLayout. -->
     <string name="category_attractions">Attractions</string>
@@ -15,5 +15,289 @@
 
     <!-- Text to display application name in splash screen -->
     <string name="app_name_splash">Tour Guide</string>
+
+
+    <!-- The Colosseum -->
+    <!-- Name of attraction - The Colosseum -->
+    <string name="attr_name_1">The Colosseum</string>
+
+    <!-- Address of attraction - The Colosseum -->
+    <string name="attr_addres_1">Piazza del Colosseo, 1</string>
+
+    <!-- Short description attraction - The Colosseum  -->
+    <string name="attr_short_desc_1">Historical Monument</string>
+
+    <!-- Location attraction - The Colosseum  -->
+    <string name="attr_location_1">Piazza del Colosseo, 1 - Rome RM, Lazio 00184 - Italy</string>
+
+    <!-- URL attraction - The Colosseum  -->
+    <string name="attr_url_1">http://archeoroma.beniculturali.it/en/archaeological-site/colosseum</string>
+
+    <!-- Description attraction - colosseum -->
+    <string name="attr_desc_1"> Located in the archaeological heart of the city of Rome, the Flavian Amphitheatre,
+        or, more commonly, the Colosseum, stands for monumentality and receives daily a large number of visitors attracted
+        by the enchantment of its history and its complex architecture. Built in the first century CE at the behest of
+        the emperors of the Flavian dynasty, the Colosseum, named after a colossal statue that stood nearby, until the
+        end of the Ancient Age accommodated games of great popular appeal, such as hunts and gladiatorial fights.
+        The building was, and still is today, a show in itself. In fact,  it is the largest amphitheatre not only in the
+        city of Rome but in the world, able to offer stunning sceneries as well as services for spectators.
+        Symbol of the pageantry of the Empire, over the centuries the Amphitheatre has changed its face and its function,
+        offering itself as a structured space also open to the Roman community. Today, the Colosseum is a monument unto itself
+        and unto the works of human genius, which survive time; yet it is still comfortable and dynamic, accessible on two levels
+        offering a wide overview onto its interiors, but also short and evocative brief glimpses of the city from its outer arches.
+        It also hosts temporary exhibitions related to the timeless theme of the "Ancient" and its relationship with the
+        "Contemporary", as well as modern performances. This outcome  of events and experiences makes the amphitheatre a new
+        place every day, significant for all and able to tell everybody a story.</string>
+
+
+    <!-- The Pantheon -->
+    <!-- Name of attraction - The Pantheon -->
+    <string name="attr_name_2">The Pantheon</string>
+
+    <!-- Address of attraction - The Pantheon -->
+    <string name="attr_addres_2">Piazza della Rotonda</string>
+
+    <!-- Short description attraction - The Pantheon  -->
+    <string name="attr_short_desc_2">Historical Monument</string>
+
+    <!-- Location attraction - The Pantheon  -->
+    <string name="attr_location_2">Piazza della Rotonda, 00186 Roma, Italia</string>
+
+    <!-- URL attraction - The Pantheon  -->
+    <string name="attr_url_2">https://en.wikipedia.org/wiki/Pantheon</string>
+
+    <!-- Description attraction - The Pantheon  -->
+    <string name="attr_desc_2">The Pantheon is a former Roman temple, now a church, in Rome, Italy,
+        on the site of an earlier temple commissioned by Marcus Agrippa during the reign of Augustus (27 BC – 14 AD).
+		The present building was completed by the emperor Hadrian and probably dedicated about 126 AD.
+        He retained Agrippa\'s original inscription, which has confused its date of construction as the original Pantheon
+        burnt down so it is not certain when the present one was built.
+		The building is circular with a portico of large granite Corinthian columns (eight in the first rank and two
+        groups of four behind) under a pediment. A rectangular vestibule links the porch to the rotunda, which is under
+        a coffered concrete dome, with a central opening (oculus) to the sky. Almost two thousand years after it was built,
+		the Pantheon\'s dome is still the world\'s largest unreinforced concrete dome. The height to the oculus and the diameter
+        of the interior circle are the same, 142 feet (43 m).</string>
+
+
+    <!-- Roman Forum and Palatine Hill -->
+    <!-- Name of attraction - Roman Forum and Palatine Hill -->
+    <string name="attr_name_3">Roman Forum and Palatine Hill</string>
+
+    <!-- Address of attraction - Roman Forum and Palatine Hill -->
+    <string name="attr_addres_3">Piazza Santa Maria Nova, 53</string>
+
+    <!-- Short description attraction - Roman Forum and Palatine Hill  -->
+    <string name="attr_short_desc_3">Historical Monument</string>
+
+    <!-- Location attraction - Roman Forum and Palatine Hill  -->
+    <string name="attr_location_3">Piazza Santa Maria Nova, 53 - Roma RM, Lazio 00186 - Italy</string>
+
+    <!-- URL attraction - Roman Forum and Palatine Hill  -->
+    <string name="attr_url_3">http://archeoroma.beniculturali.it/en/archaeological-site/roman-forum-and-palatine-hill</string>
+
+    <!-- Description attraction - Roman Forum and Palatine Hill  -->
+    <string name="attr_desc_3">Before becoming the political, administrative and religious centre of Rome, the Forum was an inhospitable marshland.
+	From the late 7th century CE, after the area was drained and reclaimed, several monuments were progressively built on it: first the buildings for political,
+	religious and commercial activities, then, during the 2nd c. BCE, the civilian basilicas, where judicial activities took place.
+	By the end of the Republican era, the ancient Roman Forum was already fully built up so that only a few monuments were added during the Empire: the Temple of Vespasian,
+	that of Antoninus and Faustina, the monumental Arch of Septimius Severus, the imposing Basilica of Maxentius. The last monument was the column
+	erected in 608 CE in honour of the Byzantine Emperor Phocas. The Palatine is the hill where, according to tradition, Romulus founded Rome in 754 BCE: the remains of huts
+	confirm in full the details of the legend. The elevated position and the proximity to the Tiber made the Palatine very suitable for the settlement;
+	during the Republican era it became the residential district of the Roman aristocracy. The Emperor Augustus turned the Palatine into the official seat of power and started the
+	construction of the Imperial Palaces, subsequently enlarged by the Julio-Claudian Emperors and by Nero. Yet it was Domitian who radically transformed the hill, by building atop
+	the previous dwellings the majestic Flavian Palace, designed by the architect Rabirius. Currently situated within the Palace of the Caesars is the Palatine Museum, where the most
+	important finds of the excavations are on display.</string>
+
+
+    <!-- Fontana di Trevi -->
+    <!-- Name of attraction - Fontana di Trevi -->
+    <string name="attr_name_4">Fontana di Trevi</string>
+
+    <!-- Address of attraction - Fontana di Trevi -->
+    <string name="attr_addres_4">Piazza di Trevi</string>
+
+    <!-- Short description attraction - Fontana di Trevi  -->
+    <string name="attr_short_desc_4">Historical Monument</string>
+
+    <!-- Location attraction - Fontana di Trevi  -->
+    <string name="attr_location_4">Piazza di Trevi, 00187 Roma, Italy</string>
+
+    <!-- URL attraction - Fontana di Trevi  -->
+    <string name="attr_url_4">https://www.tripadvisor.it/Attraction_Review-g187791-d190131-Reviews-Trevi_Fountain-Rome_Lazio.html</string>
+
+    <!-- Description attraction - Fontana di Trevi  -->
+    <string name="attr_desc_4">The Trevi Fountain is a fountain in the Trevi district in Rome, Italy, designed by Italian architect Nicola Salvi and completed by Pietro Bracci.
+	Standing 26.3 metres (86 ft) high and 49.15 metres (161.3 ft) wide, it is the largest Baroque fountain in the city and one of the most famous fountains in the world.
+	The fountain has appeared in several notable films, including Federico Fellini\'s La Dolce Vita and the eponymous Three Coins in the Fountain. The fountain at the junction of three roads (tre vie)
+	marks the terminal point of the "modern" Acqua Vergine, the revived Aqua Virgo, one of the aqueducts that supplied water to ancient Rome. In 19 BC, supposedly with the help of a virgin,
+	Roman technicians located a source of pure water some 13 km (8.1 mi) from the city. However, the eventual indirect route of the aqueduct made its length some 22 km (14 mi).
+	This Aqua Virgo led the water into the Baths of Agrippa. It served Rome for more than 400 years.</string>
+
+
+    <!-- The Arch of Constantine -->
+    <!-- Name of attraction - The Arch of Constantine -->
+    <string name="attr_name_5">The Arch of Constantine</string>
+
+    <!-- Address of attraction - The Arch of Constantine -->
+    <string name="attr_addres_5">Via di San Gregorio</string>
+
+    <!-- Short description attraction - The Arch of Constantine  -->
+    <string name="attr_short_desc_5">Historical Monument</string>
+
+    <!-- Location attraction - The Arch of Constantine  -->
+    <string name="attr_location_5">Via di San Gregorio, 00184 Roma, Italy</string>
+
+    <!-- URL attraction - The Arch of Constantine  -->
+    <string name="attr_url_5">https://www.tripadvisor.it/Attraction_Review-g187791-d191411-Reviews-Arco_di_Costantino-Rome_Lazio.html</string>
+
+    <!-- Description attraction - The Arch of Constantine -->
+    <string name="attr_desc_5">Located on the Roman street along which triumphs passed, in the stretch between the Circus Maximus and the Arch of Titus,
+	the Arch of Constantine is the largest honorary arch that has come down to us and is a synthesis of the ideological propaganda of Constantine\’s age.
+	The arch celebrates the triumph of the emperor Constantine over Maxentius, which took place on October 28, A.D. 312, following the victorius battle at the Milvian bridge.
+	As we learn from the inscription over the main arch, the monument was solemnly dedicated to the emperor by the Senate in memory of that triumph and on the occasion
+	of the decennalia of the Empire, at the beginning of the tenth year of his reign on July, 25, 315. In the middle of the twelfth century the monument was incorporated into
+	the Frangipane fortress. It was restored and studied at the end of the fifteenth century and throughout the sixteenth, but the most significant activity
+	in this respect dates from 1733, when many missing parts were replaced. The three arches are decorated by marble slabs with reliefs.
+	It was conceived and executed during Constantine\’s reign as an integrated whole, utilizing mainly materials plundered from other imperial monuments.
+	On the main faces and short side of the arch there are reliefs from the ages of Trajan, Hadrian and Marcus Aurelius, while the lower part presents ones from the reign of Constantine.
+	They provide a valuable sample of the figurative language of the imperial propaganda: a concise overview of more than two centuries of history of official Roman art.
+	The four panel from Trajan\’s time originally made up a continuous frieze and must have decorated the Forum of Trajan as part of the facing of the attic of the Basilica Ulpia.
+	It has recently been suggested that the rondels from Hadrian\’s reign originally decorated the entrance arch of a sanctuary dedicated to the heroic cult of Antinoo, the young man
+	loved by the emperor, who in effect appears in varius hunting and sacrificial scenes.</string>
+
+
+    <!-- Basilica di Santa Maria Maggiore -->
+    <!-- Name of attraction - Basilica di Santa Maria Maggiore -->
+    <string name="attr_name_6">Basilica di Santa Maria Maggiore</string>
+
+    <!-- Address of attraction - Basilica di Santa Maria Maggiore -->
+    <string name="attr_addres_6">Piazza di Santa Maria Maggiore 42</string>
+
+    <!-- Short description attraction - Basilica di Santa Maria Maggiore -->
+    <string name="attr_short_desc_6">Cathedral</string>
+
+    <!-- Location attraction - Basilica di Santa Maria Maggiore  -->
+    <string name="attr_location_6">Piazza di Santa Maria Maggiore 42, 00185 Roma, Italy</string>
+
+    <!-- URL attraction - Basilica di Santa Maria Maggiore  -->
+    <string name="attr_url_6">http://www.vatican.va/various/basiliche/sm_maggiore/index_fr.html</string>
+
+    <!-- Description attraction - Basilica di Santa Maria Maggiore -->
+    <string name="attr_desc_6">The Basilica di Santa Maria Maggiore or church of Santa Maria Maggiore, is a Papal major basilica and the
+	largest Catholic Marian church in Rome, Italy, from which size it receives the appellation "major". The basilica enshrines the venerated image of
+	Salus Populi Romani, depicting the Blessed Virgin Mary as the health and protectress of the Roman people, which was granted a Canonical
+	coronation by Pope Gregory XVI on 15 August 1838 accompanied by his Papal bull Cælestis Regina. Pursuant to the Lateran Treaty of 1929 between the Holy See and Italy,
+	the Basilica is within Italian territory and not the territory of the Vatican City State. However, the Holy See fully owns the Basilica, and Italy is legally
+	obligated to recognize its full ownership thereof and to concede to it "the immunity granted by International Law to the headquarters of the diplomatic agents of foreign States.</string>
+
+
+    <!-- Monumento a Vittorio Emanuele II -->
+    <!-- Name of attraction - Monumento a Vittorio Emanuele II -->
+    <string name="attr_name_7">Monumento a Vittorio Emanuele II</string>
+
+    <!-- Address of attraction - Monumento a Vittorio Emanuele II -->
+    <string name="attr_addres_7">Piazza Venezia</string>
+
+    <!-- Short description attraction - Monumento a Vittorio Emanuele II -->
+    <string name="attr_short_desc_7">Monument</string>
+
+    <!-- Location attraction - Monumento a Vittorio Emanuele II  -->
+    <string name="attr_location_7">Piazza Venezia, Roma, Italy</string>
+
+    <!-- URL attraction - Monumento a Vittorio Emanuele II  -->
+    <string name="attr_url_7">http://www.ilvittoriano.com/</string>
+
+    <!-- Description attraction - Monumento a Vittorio Emanuele II -->
+    <string name="attr_desc_7">The Altare della Patria, also known as the Monumento Nazionale a Vittorio Emanuele II ("National Monument to Victor Emmanuel II") or Il Vittoriano,
+	is a monument built in honor of Victor Emmanuel, the first king of a unified Italy, located in Rome, Italy. It occupies a site between the Piazza Venezia and the Capitoline Hill.
+	The eclectic structure was designed by Giuseppe Sacconi in 1885; sculpture for it was parceled out to established sculptors all over Italy, such as Leonardo Bistolfi and Angelo Zanelli.
+	It was inaugurated in 1911 and completed in 1925. The Vittoriano features stairways, Corinthian columns, fountains, an equestrian sculpture of Victor Emmanuel and two statues
+	of the goddess Victoria riding on quadrigas. The structure is 135 m (443 ft) wide and 70 m (230 ft) high. If the quadrigae and winged victories are included, the height reaches 81 m
+	(266 ft). It has a total area of 17,000 square metres. The base of the structure houses the museum of Italian Unification. In 2007, a panoramic lift was added to the structure,
+	allowing visitors to ride up to the roof for 360-degree views of Rome.</string>
+
+    <!-- Vatican City -->
+    <!-- Name of attraction - Vatican City -->
+    <string name="attr_name_8">Vatican City</string>
+
+    <!-- Address of attraction - Vatican City -->
+    <string name="attr_addres_8">Vatican City</string>
+
+    <!-- Short description attraction - Vatican City -->
+    <string name="attr_short_desc_8">Vatican City</string>
+
+    <!-- Location attraction - Vatican City  -->
+    <string name="attr_location_8">Vatican City - Roma, Italy</string>
+
+    <!-- URL attraction - Vatican City  -->
+    <string name="attr_url_8">http://www.vaticanstate.va/content/vaticanstate/en.html</string>
+
+    <!-- Description attraction - Vatican City -->
+    <string name="attr_desc_8">Vatican City State or the State of Vatican City is a country located within the city of Rome. With an area of approximately 44 hectares (110 acres),
+	and a population of 1,000, it is the smallest state in the world by both area and population. However, formally it is not sovereign, with sovereignty being held by the Holy See.
+	It is an ecclesiastical or sacerdotal-monarchical state (a type of theocracy) ruled by the Bishop of Rome – the Pope. The highest state functionaries are all Catholic clergy of various
+	national origins. Since the return of the Popes from Avignon in 1377, they have generally resided at the Apostolic Palace within what is now Vatican City,
+	although at times residing instead in the Quirinal Palace in Rome or elsewhere. Vatican City is distinct from the Holy See which dates back to early Christianity and is the
+	main episcopal see of 1.2 billion Latin and Eastern Catholic adherents around the globe. The independent city-state, on the other hand, came into existence in 1929 by
+	the Lateran Treaty between the Holy See and Italy, which spoke of it as a new creation, not as a vestige of the much larger Papal States (756–1870),
+	which had previously encompassed much of central Italy. According to the terms of the treaty, the Holy See has "full ownership, exclusive dominion,
+	and sovereign authority and jurisdiction" over the city-state. Within Vatican City are religious and cultural sites such as St. Peter\'s Basilica, the Sistine Chapel and the Vatican Museums.
+	They feature some of the world\'s most famous paintings and sculptures. The unique economy of Vatican City is supported financially by the sale of postage stamps and tourist mementos,
+	fees for admission to museums, and the sale of publications.</string>
+
+
+    <!-- Colonna Traiana -->
+    <!-- Name of attraction - Colonna Traiana -->
+    <string name="attr_name_9">Colonna Traiana</string>
+
+    <!-- Address of attraction - Colonna Traiana -->
+    <string name="attr_addres_9">Via dei Fori Imperiali</string>
+
+    <!-- Short description attraction - Colonna Traiana -->
+    <string name="attr_short_desc_9">Historical Monument</string>
+
+    <!-- Location attraction - Colonna Traiana  -->
+    <string name="attr_location_9">Via dei Fori Imperiali, Roma, Italy</string>
+
+    <!-- URL attraction - Colonna Traiana  -->
+    <string name="attr_url_9">http://www.turismoroma.it/cosa-fare/colonna-traiana</string>
+
+    <!-- Description attraction - Colonna Traiana -->
+    <string name="attr_desc_9">The Trajan Column is the only monument to the Forum that has come to us virtually intact. The column, with its base,
+	reaches almost 40 meters and indicates the original height of the Quirinale saddle, cut to create the Trajan Forum. The marvelous reliefs that cover the
+	Trajan Column, forming a nearly 200-meter spiral that could roll out like a film, tell the victorious military campaigns conducted by Trajan against Daci;
+	conflicts that had confined the Danube boundaries. The sculpted figures are about 2500; Arms trophies are sculpted on the base and there is a hatch:
+	behind it, in a burial cell, an urn contained Traiano\'s ashes. At the top of the column was the statue of the Emperor; at the end of the sixteenth century
+	it was replaced by that of St. Peter.</string>
+
+
+    <!-- Colle Palatino -->
+    <!-- Name of attraction - Colle Palatino -->
+    <string name="attr_name_10">Colle Palatino</string>
+
+    <!-- Address of attraction - Colle Palatino -->
+    <string name="attr_addres_10">Piazza Santa Maria Nova, 53</string>
+
+    <!-- Short description attraction - Colle Palatino -->
+    <string name="attr_short_desc_10">Historical Monument</string>
+
+    <!-- Location attraction - Colle Palatino  -->
+    <string name="attr_location_10">Piazza Santa Maria Nova, 53, 00186 Roma, Italy</string>
+
+    <!-- URL attraction - Colle Palatino  -->
+    <string name="attr_url_10">http://archeoroma.beniculturali.it/en/archaeological-site/roman-forum-and-palatine-hill</string>
+
+    <!-- Description attraction - Colle Palatino -->
+    <string name="attr_desc_10">Before becoming the political, administrative and religious centre of Rome, the Forum was an inhospitable marshland.
+	From the late 7th century CE, after the area was drained and reclaimed, several monuments were progressively built on it: first the buildings for political,
+	religious and commercial activities, then, during the 2nd c. BCE, the civilian basilicas, where judicial activities took place. By the end of the Republican era,
+	the ancient Roman Forum was already fully built up so that only a few monuments were added during the Empire: the Temple of Vespasian, that of Antoninus
+	and Faustina, the monumental Arch of Septimius Severus, the imposing Basilica of Maxentius. The last monument was the column erected in 608 CE in
+	honour of the Byzantine Emperor Phocas. The Palatine is the hill where, according to tradition, Romulus founded Rome in 754 BCE: the remains of
+	huts confirm in full the details of the legend. The elevated position and the proximity to the Tiber made the Palatine very suitable for the settlement;
+	during the Republican era it became the residential district of the Roman aristocracy. The Emperor Augustus turned the Palatine into the official seat
+	of power and started the construction of the Imperial Palaces, subsequently enlarged by the Julio-Claudian Emperors and by Nero. Yet it was Domitian
+	who radically transformed the hill, by building atop the previous dwellings the majestic Flavian Palace, designed by the architect Rabirius. Currently situated
+	within the Palace of the Caesars is the Palatine Museum, where the most important finds of the excavations are on display.</string>
 
 </resources>
