@@ -21,7 +21,7 @@ public class PlaceDetailActivity extends AppCompatActivity {
     private ImageView ivPlaceImageUrl;
 
     // Constant value that represents no image was provided for this place
-    private static final int NO_IMAGE_PROVIDED = 0;
+    private static final int NO_IMAGE_PROVIDED = -1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

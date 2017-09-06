@@ -73,29 +73,6 @@ public class ShopFragment extends Fragment {
         // {@link ListView} will display list items for each {@link Place} in the list.
         listView.setAdapter(placeAdapter);
 
-        // Set a click listener to call the activity detail when the list item is clicked on
-        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-
-                // Find the current place that was clicked on
-                Place currentPlace = placeAdapter.getItem(i);
-
-                // Create a new intent to view the place detail activity
-                Intent intent = new Intent(getActivity(), PlaceDetailActivity.class);
-                intent.putExtra("placeName", currentPlace.getPlaceName());
-                intent.putExtra("placeAddress", currentPlace.getPlaceAddress());
-                intent.putExtra("placeDescription", currentPlace.getPlaceDescription());
-                intent.putExtra("placeShortDescription", currentPlace.getPlaceShortDescription());
-                intent.putExtra("placeImage", currentPlace.getPlaceImageResourceID());
-                intent.putExtra("placeUrl", currentPlace.getPlaceURL());
-                intent.putExtra("placeLocation", currentPlace.getPlaceLocation());
-
-                // Send the intent to launch a new activity
-                startActivity(intent);
-            }
-        });
-
         return rootView;
     }
 
