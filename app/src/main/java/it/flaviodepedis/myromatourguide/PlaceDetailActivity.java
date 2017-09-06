@@ -1,15 +1,14 @@
 package it.flaviodepedis.myromatourguide;
 
-import android.content.Intent;
-import android.graphics.drawable.Drawable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import org.w3c.dom.Text;
-
+/**
+ * Created by flavio.depedis on 06/09/2017.
+ */
 public class PlaceDetailActivity extends AppCompatActivity {
 
     private TextView tvPlaceName;
