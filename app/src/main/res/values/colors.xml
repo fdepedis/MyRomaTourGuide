@@ -22,6 +22,6 @@
     <color name="secondary_text">#757575</color>
 
     <!-- Color for the divider in the list item -->
-    <color name="divider">#BDBDBD</color>
+    <color name="divider">#FFFFFF</color>
 
 </resources>

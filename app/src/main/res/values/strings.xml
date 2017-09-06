@@ -1,4 +1,6 @@
 <resources>
+    <!-- Genaral -->
+    <!-- String for app name -->
     <string name="app_name">My Tour Guide</string>
 
     <!-- Title for Eat string in the TabLayout. -->
@@ -18,6 +20,15 @@
 
     <!-- Label to display name of detail activity -->
     <string name="place_detail_activity_label">Place Detail</string>
+
+    <!-- String for description title in activity detail -->
+    <string name="desc_title">Description</string>
+
+    <!-- String for short description title in activity detail -->
+    <string name="short_desc_title">Context</string>
+
+    <!-- String for location title in activity detail -->
+    <string name="location_title">Location</string>
 
     <!-- The Colosseum -->
     <!-- Name of attraction - The Colosseum -->
@@ -739,4 +750,239 @@
 	Anagnina e a 50 m. dal primo punto vendita Ikea di Roma.</string>
 
 
+    <!-- Hotels -->
+    <!-- Name of Hotels -->
+    <string name="hotel_name_1">Warmthotel</string>
+
+    <!-- Address of restaurant -->
+    <string name="hotel_addres_1">Via Giuseppe Prezzolini, 5</string>
+
+    <!-- Short description restaurant -->
+    <string name="hotel_short_desc_1">Hotels and B&amp;B</string>
+
+    <!-- Location restaurant -->
+    <string name="hotel_location_1">Via Giuseppe Prezzolini 5, Eur &amp; Garbatella, 00143 Roma, Italia</string>
+
+    <!-- URL restaurant  -->
+    <string name="hotel_url_1">https://www.booking.com/hotel/it/warmth-hotel.it.html</string>
+
+    <!-- Description restaurant -->
+    <string name="hotel_desc_1">Questo è il 3° hotel a 4 stelle più prenotato di Roma. Ubicato a 5 minuti di auto dal quartiere
+	EUR di Roma, il Warmthotel offre spaziose suite e camere climatizzate e alcuni servizi gratuiti quali un parcheggio coperto
+	e la connessione WiFi. Il Warmthotel dista 3,5 km dall\'uscita EUR del Grande Raccordo Anulare di Roma e 20 minuti di auto dall\'aeroporto
+	internazionale di Fiumicino, collegato alla struttura tramite un servizio di trasferimento disponibile su richiesta.</string>
+
+
+    <!-- Name of Hotels -->
+    <string name="hotel_name_2">Locanda Sonnino</string>
+
+    <!-- Address of restaurant -->
+    <string name="hotel_addres_2">Via di San Crisogono, 32</string>
+
+    <!-- Short description restaurant -->
+    <string name="hotel_short_desc_2">Hotels and B&amp;B</string>
+
+    <!-- Location restaurant -->
+    <string name="hotel_location_2">Via di San Crisogono 32, Trastevere, 00153 Roma, Italia</string>
+
+    <!-- URL restaurant  -->
+    <string name="hotel_url_2">https://www.booking.com/hotel/it/locanda-sonnino.it.html</string>
+
+    <!-- Description restaurant -->
+    <string name="hotel_desc_2">La Locanda Sonnino vi attende a Roma. Interamente coperta dalla connessione WiFi gratuita,
+	la Locanda Sonnino propone camere con aria condizionata, TV a schermo piatto, macchina da caffè, bollitore e bagno privato
+	fornito di vasca o doccia, bidet e set di cortesia. In loco troverete anche un deposito bagagli. Ubicata a 14 km dall\'Aeroporto
+	di Roma Ciampino, la Locanda Sonnino dista 400 metri da San Francesco a Ripa e dalla Sinagoga.
+	Trastevere è un\'ottima scelta per i viaggiatori interessati al cibo, alle passeggiate in città e alla cultura. Questa zona di Roma
+	è una delle preferite dai nostri ospiti, in base alle recensioni indipendenti.</string>
+
+
+    <!-- Name of Hotels -->
+    <string name="hotel_name_3">Vittoriano Luxury Suites</string>
+
+    <!-- Address of restaurant -->
+    <string name="hotel_addres_3">Corso Vittorio Emanuele II, 21</string>
+
+    <!-- Short description restaurant -->
+    <string name="hotel_short_desc_3">Hotels and B&amp;B</string>
+
+    <!-- Location restaurant -->
+    <string name="hotel_location_3">CORSO VITTORIO EMANUELE II 21, scala B, piano 5, int. 15, Pantheon, 00186 Roma, Italia</string>
+
+    <!-- URL restaurant  -->
+    <string name="hotel_url_3">https://www.booking.com/hotel/it/vittoriano-luxury-suites-roma.it.html</string>
+
+    <!-- Description restaurant -->
+    <string name="hotel_desc_3">Ubicato a Roma, a 200 metri dal Palazzo Venezia, il Vittoriano Luxury Suites offre la connessione
+	WiFi gratuita in tutti gli ambienti. Dotate in alcuni casi di comoda area salotto, tutte le sistemazioni dispongono di TV a schermo
+	piatto e bagno privato con vasca o doccia, accappatoi, asciugacapelli e set di cortesia. Troverete anche alcuni negozi in loco e una reception attiva 24 ore su 24.
+	Il Vittoriano Luxury Suites dista 200 metri da Piazza di Torre Argentina, 300 metri da Piazza Venezia e 14 km dall\'Aeroporto di Ciampino, lo scalo più vicino.
+	Pantheon è un\'ottima scelta per i viaggiatori interessati al cibo, ai giri turistici e alla storia. Questa zona di Roma è una delle preferite dai nostri ospiti,
+	in base alle recensioni indipendenti. Questa zona è perfetta anche per fare acquisti. Troverai marche come: Rolex, H&amp;M, Zara, Nike.</string>
+
+
+    <!-- Name of Hotels -->
+    <string name="hotel_name_4">Rinidia - Roma Centro</string>
+
+    <!-- Address of restaurant -->
+    <string name="hotel_addres_4">Via dei Redentoristi, 9</string>
+
+    <!-- Short description restaurant -->
+    <string name="hotel_short_desc_4">Apartment</string>
+
+    <!-- Location restaurant -->
+    <string name="hotel_location_4">Via dei Redentoristi 9, Pantheon, 00100 Roma, Italia</string>
+
+    <!-- URL restaurant  -->
+    <string name="hotel_url_4">https://www.booking.com/hotel/it/rinidia-roma-centro.it.html</string>
+
+    <!-- Description restaurant -->
+    <string name="hotel_desc_4">Situato a Roma, a 100 metri da Largo di Torre Argentina, il Rinidia - Roma Centro offre il WiFi gratis in tutte le aree.
+	Dotato di area salotto, il Rinidia - Roma Centro include una cucina con lavastoviglie, forno e microonde, gli asciugamani e la biancheria da letto.
+	Il Rinidia - Roma Centro sorge a 200 metri dal Pantheon, a 300 metri da Piazza Navona e a 14 km dall\'Aeroporto di Roma-Ciampino.
+	Pantheon è un\'ottima scelta per i viaggiatori interessati al cibo, ai giri turistici e alla storia. Questa zona di Roma è una delle preferite dai nostri ospiti,
+	in base alle recensioni indipendenti.</string>
+
+
+    <!-- Name of Hotels -->
+    <string name="hotel_name_5">Trevi Miracle Suite</string>
+
+    <!-- Address of restaurant -->
+    <string name="hotel_addres_5">Via In Arcione, 98</string>
+
+    <!-- Short description restaurant -->
+    <string name="hotel_short_desc_5">Hotels</string>
+
+    <!-- Location restaurant -->
+    <string name="hotel_location_5">Via in Arcione 98, Trevi, 00187 Roma, Italia</string>
+
+    <!-- URL restaurant  -->
+    <string name="hotel_url_5">https://www.booking.com/hotel/it/trevi-miracle-suite-arcione.it.html</string>
+
+    <!-- Description restaurant -->
+    <string name="hotel_desc_5">Aperta ai vostri animali domestici, la Trevi Miracle Suite vi accoglie nel cuore di Roma,
+	a 200 metri dalla Fontana di Trevi e a 300 metri dal Quirinale, e offre una sistemazione climatizzata e interamente coperta dal WiFi gratuito.
+	Al suo interno troverete anche un angolo cottura completo di microonde e tostapane, una TV a schermo piatto, e 2 bagni privati con vasca e/o doccia e bidè.
+	La Trevi Miracle Suite dista 400 metri da Piazza Barberini, 500 metri da Piazza di Spagna e 15 km dall\'Aeroporto di Roma-Ciampino.
+	Trevi è un\'ottima scelta per i viaggiatori interessati al cibo, alle passeggiate in città e ai giri turistici. Questa zona di Roma è una delle preferite dai nostri ospiti,
+	in base alle recensioni indipendenti. Questa zona è perfetta anche per fare acquisti. Troverai marche come: Rolex, H&amp;M, Zara, Nike, Ralph Lauren.</string>
+
+
+    <!-- Name of Hotels -->
+    <string name="hotel_name_6">Grand Hotel De La Minerve</string>
+
+    <!-- Address of restaurant -->
+    <string name="hotel_addres_6">Piazza Della Minerva, 69</string>
+
+    <!-- Short description restaurant -->
+    <string name="hotel_short_desc_6">Hotels</string>
+
+    <!-- Location restaurant -->
+    <string name="hotel_location_6">Piazza Della Minerva 69, Pantheon, 00186 Roma, Italia</string>
+
+    <!-- URL restaurant  -->
+    <string name="hotel_url_6">https://www.booking.com/hotel/it/grand-de-la-minerve.it.html</string>
+
+    <!-- Description restaurant -->
+    <string name="hotel_desc_6">Il Grand Hotel De La Minerve occupa un lussuoso edificio seicentesco, a 2 minuti a piedi dal Pantheon
+	e nei pressi delle pittoresche Piazza Navona e Piazza di Spagna, e vanta una terrazza all\'ultimo piano affacciata sul centro di Roma.
+	Tutte le camere al De La Minerve presentano interni eleganti con arredi personalizzati, connessione Wi-Fi gratuita e set di cortesia di lusso.
+	Il ristorante Minerva Roof Garden, aperto a pranzo e a cena tutto l\'anno, propone un raffinato mix di cucina italiana, mediterranea e internazionale.
+	Il concierge sarà lieto di assistervi e di organizzare per voi trasferimenti e visite guidate della città. Pantheon è un\'ottima scelta per
+	i viaggiatori interessati al cibo, ai giri turistici e alla storia.</string>
+
+
+    <!-- Name of Hotels -->
+    <string name="hotel_name_7">Relais Navona71</string>
+
+    <!-- Address of restaurant -->
+    <string name="hotel_addres_7">Piazza Navona, 71</string>
+
+    <!-- Short description restaurant -->
+    <string name="hotel_short_desc_7">Hotels</string>
+
+    <!-- Location restaurant -->
+    <string name="hotel_location_7">Piazza Navona 71, Piazza Navona, 00186 Roma, Italia</string>
+
+    <!-- URL restaurant  -->
+    <string name="hotel_url_7">https://www.booking.com/hotel/it/relais-navona71.it.html</string>
+
+    <!-- Description restaurant -->
+    <string name="hotel_desc_7">Dotato di camere moderne e di un servizio cordiale, il Relais Navona71 sorge
+	in una posizione centrale su una delle piazze più belle di Roma, Piazza Navona. Il bar appena fuori dall\'hotel vi attende al mattino per colazione.
+	Le sistemazioni del Navona71 vantano un design contemporaneo con parquet e arredi minimalisti, minibar e TV satellitare a
+	schermo piatto. In un\'area comune troverete una macchinetta del caffè Nespresso. Il Navona71 Relais è circondato da alcuni dei ristoranti e wine
+	bar più rinomati della città, ed è vicino a numerose fermate degli autobus per raggiungere comodamente tutti gli angoli di Roma. Si trova a 5 minuti a
+	piedi dal Pantheon e a 10 minuti a piedi da Castel Sant\'Angelo, raggiungibile oltrepassando il Tevere. Piazza Navona è un\'ottima scelta per i viaggiatori
+	interessati al cibo, alle passeggiate in città e alla cultura. Questa zona di Roma è una delle preferite dai nostri ospiti, in base alle recensioni indipendenti.</string>
+
+
+    <!-- Name of Hotels -->
+    <string name="hotel_name_8">Pantheon Inn</string>
+
+    <!-- Address of restaurant -->
+    <string name="hotel_addres_8">Via Santa Caterina Da Siena, 57</string>
+
+    <!-- Short description restaurant -->
+    <string name="hotel_short_desc_8">B&amp;B</string>
+
+    <!-- Location restaurant -->
+    <string name="hotel_location_8">Via Santa Caterina Da Siena 57, Pantheon, 00186 Roma, Italia</string>
+
+    <!-- URL restaurant  -->
+    <string name="hotel_url_8">https://www.booking.com/hotel/it/pantheon-inn.it.html</string>
+
+    <!-- Description restaurant -->
+    <string name="hotel_desc_8">Situato dietro al Pantheon, in un edificio un tempo dimora di Giuseppe Garibaldi,
+	quest\'incantevole struttura vanta camere climatizzate dotate di TV LCD e connessione Wi-Fi gratuita. Il Pantheon Inn sorge in un
+	palazzo storico a pochi passi da Piazza della Rotonda, la piazza del Pantheon, e 5 minuti a piedi da Piazza Navona e Campo de Fiori.
+	La struttura dispone di sistemazioni con mobili d\'epoca e pavimenti in parquet e della prima colazione, che potrete gustare in camera
+	senza alcun costo aggiuntivo, a base di pasticceria fresca, pane, prosciutto e formaggi. In una posizione centrale, Il Pantheon Inn dista
+	pochi minuti a piedi da numerosi negozi, ristoranti e caffetterie ed è ben collegato con gli autobus alla Stazione Termini. Pantheon è un\'ottima scelta
+	per i viaggiatori interessati al cibo, ai giri turistici e alla storia.</string>
+
+
+    <!-- Name of Hotels -->
+    <string name="hotel_name_9">Vatican Garden Rooms</string>
+
+    <!-- Address of restaurant -->
+    <string name="hotel_addres_9">Via Leone IV, 38</string>
+
+    <!-- Short description restaurant -->
+    <string name="hotel_short_desc_9">B&amp;B</string>
+
+    <!-- Location restaurant -->
+    <string name="hotel_location_9">Via Leone IV 38, scala B, piano 3, Città del Vaticano - Prati, 00192 Roma, Italia</string>
+
+    <!-- URL restaurant  -->
+    <string name="hotel_url_9">https://www.booking.com/hotel/it/vatican-gardens-room.it.html</string>
+
+    <!-- Description restaurant -->
+    <string name="hotel_desc_9">Il Vatican Garden Rooms sorge a Roma, nel quartiere Prati - Città del Vaticano,
+	a 300 metri dai Musei Vaticani e a 800 metri dalla Basilica di San Pietro. Presso il Vatican Garden Rooms potrete usufruire della
+	connessione WiFi gratuita in tutte le aree. A vostra disposizione anche una TV a schermo piatto. In loco troverete una cucina in comune.
+	Il Vatican Garden Rooms dista 800 metri dal Vaticano e da Piazza San Pietro, e 17 km dall\'Aeroporto di Roma-Ciampino.
+	Città del Vaticano - Prati è un\'ottima scelta per i viaggiatori interessati ai musei, all\'arte e alla cultura.</string>
+
+
+    <!-- Name of Hotels -->
+    <string name="hotel_name_10">Warmthotel</string>
+
+    <!-- Address of restaurant -->
+    <string name="hotel_addres_10">Via Giuseppe Prezzolini, 5</string>
+
+    <!-- Short description restaurant -->
+    <string name="hotel_short_desc_10">Hotels and B&amp;B</string>
+
+    <!-- Location restaurant -->
+    <string name="hotel_location_10">Via Giuseppe Prezzolini 5, Eur &amp; Garbatella, 00143 Roma, Italia</string>
+
+    <!-- URL restaurant  -->
+    <string name="hotel_url_10">https://www.booking.com/hotel/it/warmth-hotel.it.html</string>
+
+    <!-- Description restaurant -->
+    <string name="hotel_desc_10">Questo è il 3° hotel a 4 stelle più prenotato di Roma. Ubicato a 5 minuti di auto dal quartiere
+	EUR di Roma, il Warmthotel offre spaziose suite e camere climatizzate e alcuni servizi gratuiti quali un parcheggio coperto
+	e la connessione WiFi. Il Warmthotel dista 3,5 km dall\'uscita EUR del Grande Raccordo Anulare di Roma e 20 minuti di auto dall\'aeroporto
+	internazionale di Fiumicino, collegato alla struttura tramite un servizio di trasferimento disponibile su richiesta.</string>
 </resources>

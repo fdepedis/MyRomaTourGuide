@@ -12,4 +12,19 @@
     <!-- Start padding in list item -->
     <dimen name="start_padding">16dp</dimen>
 
+    <!-- Size for card radius -->
+    <dimen name="card_radius">8dp</dimen>
+
+    <!-- Size for card elevation -->
+    <dimen name="card_elevation">4dp</dimen>
+
+    <!-- Height of image in the activity detail -->
+    <dimen name="img_height_detail">200dp</dimen>
+
+    <!-- Widht of image in the activity detail -->
+    <dimen name="img_width_detail">200dp</dimen>
+
+    <!-- MarginTop in the activity Detail -->
+    <dimen name="margin_top">8dp</dimen>
+
 </resources>

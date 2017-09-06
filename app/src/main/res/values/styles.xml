@@ -38,4 +38,20 @@
         <item name="colorPrimaryDark">@color/colorPrimary</item>
     </style>
 
+    <!-- Style for small text view in activity detail -->
+    <style name="TextViewStyleSmall">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/margin_top</item>
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+    </style>
+
+    <!-- Style for medium text view in activity detail -->
+    <style name="TextViewStyleMedium">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/margin_top</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+    </style>
+
 </resources>

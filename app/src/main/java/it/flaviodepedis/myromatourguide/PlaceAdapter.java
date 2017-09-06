@@ -46,18 +46,27 @@ public class PlaceAdapter extends ArrayAdapter<Place> {
 
         // Find the TextView in the list_item.xml layout with the ID place_text_view
         // Get the place name from the current Place object and set this text on the name TextView
-        TextView tvPlace = (TextView) listItemView.findViewById(R.id.place_text_view);
+        TextView tvPlace = (TextView) listItemView.findViewById(R.id.tv_place);
         tvPlace.setText(currentPlace.getPlaceName());
 
         // Find the TextView in the list_item.xml layout with the ID place_address_text_view
         // Get the place address from the current Place object and set this text on the name TextView
-        TextView tvPlaceAddress = (TextView) listItemView.findViewById(R.id.place_address_text_view);
-        tvPlaceAddress.setText(currentPlace.getPlaceAddress());
+        TextView tvShortDesc = (TextView) listItemView.findViewById(R.id.tv_short_desc);
+        tvShortDesc.setText(currentPlace.getPlaceShortDescription());
 
         // Find the ImageView in the list_item.xml layout with the ID place_item_icon
         // Get the image resource ID from the current Place object and set the image to ImageView
         ImageView imgPlace = (ImageView) listItemView.findViewById(R.id.place_item_icon);
-        imgPlace.setImageResource(currentPlace.getPlaceImageResourceID());
+        // Check if an image is provided for this place or not
+        if (currentPlace.hasImage()) {
+            // If an image is available, display the provided image based on the resource ID
+            imgPlace.setImageResource(currentPlace.getPlaceImageResourceID());
+            // Make sure the view is visible
+            imgPlace.setVisibility(View.VISIBLE);
+        } else {
+            // Otherwise hide the ImageView (set visibility to GONE)
+            imgPlace.setVisibility(View.GONE);
+        }
 
         // Return the whole list item layout (containing 2 TextViews and an ImageView)
         // so that it can be shown in the ListView

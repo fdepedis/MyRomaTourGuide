@@ -1,33 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:padding="@dimen/start_padding"
-    android:orientation="vertical"
-    tools:context="it.flaviodepedis.myromatourguide.PlaceDetailActivity">
+    android:layout_height="match_parent">
 
-    <TextView
-        android:id="@+id/textView_Name"
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
-        android:text="xxx_name" />
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/start_padding"
+        tools:context="it.flaviodepedis.myromatourguide.PlaceDetailActivity">
 
-    <TextView
-        android:id="@+id/textView_Desc"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_marginTop="8dp"
-        android:layout_weight="2"
-        android:text="xxx_description" />
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:paddingBottom="10dp"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            android:text="xxxPlaceName"/>
 
-    <TextView
-        android:id="@+id/textView_Location"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_marginTop="8dp"
-        android:layout_weight="3"
-        android:text="xxx_location" />
+        <ImageView
+            android:id="@+id/place_item_icon"
+            android:layout_width="@dimen/img_width_detail"
+            android:layout_height="@dimen/img_height_detail"
+            android:scaleType="centerCrop"
+            android:layout_gravity="center_horizontal"/>
 
-</LinearLayout>
+        <TextView
+            android:id="@+id/tv_short_desc_title"
+            style="@style/TextViewStyleMedium"
+            android:text="@string/short_desc_title" />
+
+        <TextView
+            android:id="@+id/tv_short_description"
+            style="@style/TextViewStyleSmall" />
+
+        <TextView
+            android:id="@+id/tv_desc_title"
+            style="@style/TextViewStyleMedium"
+            android:text="@string/desc_title" />
+
+        <TextView
+            android:id="@+id/tv_description"
+            style="@style/TextViewStyleSmall"
+            android:layout_gravity="center_vertical" />
+
+        <TextView
+            android:id="@+id/tv_location_title"
+            style="@style/TextViewStyleMedium"
+            android:text="@string/location_title" />
+
+        <TextView
+            android:id="@+id/tv_location"
+            style="@style/TextViewStyleSmall" />
+
+    </LinearLayout>
+
+</ScrollView>
