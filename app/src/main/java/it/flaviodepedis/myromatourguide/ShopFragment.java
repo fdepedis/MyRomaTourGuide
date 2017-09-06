@@ -44,7 +44,21 @@ public class ShopFragment extends Fragment {
         places.add(new Place(getString(R.string.shop_name_5), getString(R.string.shop_addres_5),
                 getString(R.string.shop_short_desc_5), getString(R.string.shop_desc_5),
                 R.drawable.ic_parco_leonardo, getString(R.string.shop_url_5), getString(R.string.shop_location_5)));
-
+        places.add(new Place(getString(R.string.shop_name_6), getString(R.string.shop_addres_6),
+                getString(R.string.shop_short_desc_6), getString(R.string.shop_desc_6),
+                R.drawable.ic_granai, getString(R.string.shop_url_6), getString(R.string.shop_location_6)));
+        places.add(new Place(getString(R.string.shop_name_7), getString(R.string.shop_addres_7),
+                getString(R.string.shop_short_desc_7), getString(R.string.shop_desc_7),
+                R.drawable.ic_roma_est, getString(R.string.shop_url_7), getString(R.string.shop_location_7)));
+        places.add(new Place(getString(R.string.shop_name_8), getString(R.string.shop_addres_8),
+                getString(R.string.shop_short_desc_8), getString(R.string.shop_desc_8),
+                R.drawable.ic_porta_di_roma, getString(R.string.shop_url_8), getString(R.string.shop_location_8)));
+        places.add(new Place(getString(R.string.shop_name_9), getString(R.string.shop_addres_9),
+                getString(R.string.shop_short_desc_9), getString(R.string.shop_desc_9),
+                R.drawable.ic_romanina, getString(R.string.shop_url_9), getString(R.string.shop_location_9)));
+        places.add(new Place(getString(R.string.shop_name_10), getString(R.string.shop_addres_10),
+                getString(R.string.shop_short_desc_10), getString(R.string.shop_desc_10),
+                R.drawable.ic_anagnina, getString(R.string.shop_url_10), getString(R.string.shop_location_10)));
 
         // Create an {@link PlaceAdapter}, whose data source is a list of {@link Place}s. The
         // adapter knows how to create list items for each item in the list.

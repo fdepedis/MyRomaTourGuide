@@ -627,4 +627,116 @@
 	quindi all\'interno della conurbazione di Roma, che ospita il centro commerciale e il cinema multisala tra i più grandi d\'Italia.</string>
 
 
+    <!-- Name of Shop Center -->
+    <string name="shop_name_6">I Granai</string>
+
+    <!-- Address of restaurant -->
+    <string name="shop_addres_6">Via Mario Rigamonti, 100</string>
+
+    <!-- Short description restaurant -->
+    <string name="shop_short_desc_6">Shopping Center</string>
+
+    <!-- Location restaurant -->
+    <string name="shop_location_6">Via Mario Rigamonti, 100 - 00142 – Roma</string>
+
+    <!-- URL restaurant  -->
+    <string name="shop_url_6">http://www.centroigranai.it/</string>
+
+    <!-- Description restaurant -->
+    <string name="shop_desc_6">No Descriprtion</string>
+
+
+    <!-- Name of Shop Center -->
+    <string name="shop_name_7">Roma Est</string>
+
+    <!-- Address of restaurant -->
+    <string name="shop_addres_7">Via Collatina</string>
+
+    <!-- Short description restaurant -->
+    <string name="shop_short_desc_7">Shopping Center</string>
+
+    <!-- Location restaurant -->
+    <string name="shop_location_7">Via Collatina - A24 nuova uscita PONTE DI NONA – GRA uscita 14 e 15</string>
+
+    <!-- URL restaurant  -->
+    <string name="shop_url_7">http://romaest.cc/it</string>
+
+    <!-- Description restaurant -->
+    <string name="shop_desc_7">Il complesso comprende attività commerciali e spazi ad uso collettivo per un totale di 98.000 metri quadrati di GLA.
+	In particolare la struttura ospita oltre 210 negozi e un modernissimo complesso cinematografico multisala e di intrattenimento. Su entrambi i livelli sono
+	ubicate, poi, numerose aree dedicate alla ristorazione, diversificate per tipologia di offerta e di servizio. A queste si aggiunge l\'ipermercato Panorama,
+	che copre una superficie di 24.000 metri quadri. Lo store propone un\'offerta completa e competitiva di prodotti di uso quotidiano
+	(alimentari, beni per la persona, per la casa), capace di rispondere alle esigenze del target familiare (per esempio coppie giovani, nuclei con figli).
+	In tal senso l’ipermercato si integra perfettamente con i negozi e i servizi di intrattenimento, coniugando la necessità dello shopping con
+	il desiderio di svago e di relax. Romaest sorge alle porte di Roma, a pochi chilometri dal Gran Raccordo Anulare, sulla direttrice Roma L\'Aquila.
+	È, pertanto, facilmente raggiungibile dal centro di Roma.</string>
+
+
+    <!-- Name of Shop Center -->
+    <string name="shop_name_8">Porte di Roma</string>
+
+    <!-- Address of restaurant -->
+    <string name="shop_addres_8">Via Alberto Lionello, 201</string>
+
+    <!-- Short description restaurant -->
+    <string name="shop_short_desc_8">Shopping Center</string>
+
+    <!-- Location restaurant -->
+    <string name="shop_location_8">Via Alberto Lionello, 201 - 00139 Roma</string>
+
+    <!-- URL restaurant  -->
+    <string name="shop_url_8">http://it.club-onlyou.com/PORTA-DI-ROMA</string>
+
+    <!-- Description restaurant -->
+    <string name="shop_desc_8">No Description</string>
+
+
+    <!-- Name of Shop Center -->
+    <string name="shop_name_9">La Romanina</string>
+
+    <!-- Address of restaurant -->
+    <string name="shop_addres_9">Via Enrico Ferri, 8</string>
+
+    <!-- Short description restaurant -->
+    <string name="shop_short_desc_9">Shopping Center</string>
+
+    <!-- Location restaurant -->
+    <string name="shop_location_9">Via Enrico Ferri, 8, 00173 Roma RM</string>
+
+    <!-- URL restaurant  -->
+    <string name="shop_url_9">https://www.facebook.com/pg/laromaninacc/about/</string>
+
+    <!-- Description restaurant -->
+    <string name="shop_desc_9">Il Centro Commerciale La Romanina è stato inaugurato nel 1992 ed è diventato subito uno dei principali poli
+	commerciali della città di Roma. Il complesso, sorto nel punto di congiunzione tra il Grande Raccordo Anulare e l\'Autostrada Roma-Napoli,
+	è in grado di accogliere circa 4,5 milioni di visitatori all\'anno. Il bacino d\'utenza è caratterizzato da quasi 1.200.000 persone. Il Centro Commerciale
+	si sviluppa su 3 livelli commerciali e 3 livelli di parcheggi ed offre una grande varietà di scelta. Infatti, la galleria conta più di 100 attività con un Ipermercato
+	ad insegna Carrefour e 7 medie superfici specializzate ed è servito dalla linea autobus 500. Il Centro è raggiungibile anche con la metropolitana A, terminal Anagnina.
+	Da Febbraio a Dicembre 2009 sono stati eseguiti importanti lavori di restyling e di ampliamento dell\'offerta commerciale grazie al quale
+	oggi si contano 10 nuovi negozi per un totale di 102 attività commerciali. L\'inaugurazione del nuovo centro ampliato e rinnovato ha
+	avuto luogo il 15 Dicembre 2009.</string>
+
+
+    <!-- Name of Shop Center -->
+    <string name="shop_name_10">Centro Commerciale Anagnina</string>
+
+    <!-- Address of restaurant -->
+    <string name="shop_addres_10">Via Torre di Mezzavia</string>
+
+    <!-- Short description restaurant -->
+    <string name="shop_short_desc_10">Shopping Center</string>
+
+    <!-- Location restaurant -->
+    <string name="shop_location_10">Via Torre di Mezzavia - 00173 Roma (RM)</string>
+
+    <!-- URL restaurant  -->
+    <string name="shop_url_10">http://www.centroanagnina.com/</string>
+
+    <!-- Description restaurant -->
+    <string name="shop_desc_10">Un eterogeneo mix merceologico di prodotti per l\'abbigliamento, la casa, servizi, prodotti per la persona,
+	accessori, elettronica, 4 punti ristoro ed alimentare. Il centro commerciale Anagnina gode di una posizione privilegiata a metà strada tra
+	la via Anagnina e la via Tuscolana, nelle immediate vicinanze dell\'uscita 21/22 del G.R.A., a 5 minuti dal capolinea della metropolitana
+	Anagnina e a 50 m. dal primo punto vendita Ikea di Roma.</string>
+
+
 </resources>
