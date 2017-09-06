@@ -1,5 +1,8 @@
 package it.flaviodepedis.myromatourguide;
 
+import android.content.Intent;
+import android.net.Uri;
+import android.provider.ContactsContract;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -15,7 +18,8 @@ public class PlaceDetailActivity extends AppCompatActivity {
     private TextView tvPlaceDesc;
     private TextView tvPlaceShortDesc;
     private TextView tvPlaceLocation;
-    private ImageView tvPlaceImage;
+    private ImageView ivPlaceImage;
+    private ImageView ivPlaceImageUrl;
 
     // Constant value that represents no image was provided for this place
     private static final int NO_IMAGE_PROVIDED = 0;
@@ -34,15 +38,15 @@ public class PlaceDetailActivity extends AppCompatActivity {
 
         // set the image of the place
         int placeImage = makeIntent.getInt("placeImage");
-        tvPlaceImage = (ImageView) findViewById(R.id.place_item_icon);
+        ivPlaceImage = (ImageView) findViewById(R.id.place_item_icon);
 
         // verify if there is or not an image to receive from Intent
         if(placeImage != NO_IMAGE_PROVIDED){
-            tvPlaceImage.setVisibility(View.VISIBLE);
-            tvPlaceImage.setBackgroundResource(placeImage);
+            ivPlaceImage.setVisibility(View.VISIBLE);
+            ivPlaceImage.setBackgroundResource(placeImage);
         } else {
             // Otherwise hide the ImageView (set visibility to GONE)
-            tvPlaceImage.setVisibility(View.GONE);
+            ivPlaceImage.setVisibility(View.GONE);
         }
 
         // set the description of the place
@@ -56,5 +60,19 @@ public class PlaceDetailActivity extends AppCompatActivity {
         // set the location of the place
         tvPlaceLocation = (TextView) findViewById(R.id.tv_location);
         tvPlaceLocation.setText(makeIntent.getString("placeLocation"));
+
+        // set the site URL of the place
+        final String siteUrl = makeIntent.getString("placeUrl");
+
+        // set the link URL of the place
+        ivPlaceImageUrl = (ImageView) findViewById(R.id.link);
+        ivPlaceImageUrl.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(siteUrl));
+                startActivity(intent);
+            }
+        });
+
     }
 }

@@ -30,6 +30,10 @@
     <!-- String for location title in activity detail -->
     <string name="location_title">Location</string>
 
+    <!-- String for site title in activity detail -->
+    <string name="site_title">Site URL</string>
+    site_title
+
     <!-- The Colosseum -->
     <!-- Name of attraction - The Colosseum -->
     <string name="attr_name_1">The Colosseum</string>
